@@ -1,4 +1,4 @@
-# 🛍️ Customer Behavior Analysis Based on Sales (Wants vs Needs)
+# 🛍️ Customer Behavior Analysis Dashboard integration
 
 ## 📖 Project Overview
 
